@@ -1,0 +1,3 @@
+ad1:kpm
+ad2:erode
+ad3:none
